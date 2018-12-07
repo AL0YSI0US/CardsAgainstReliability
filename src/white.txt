@@ -180,7 +180,7 @@ Doing containers from scratch because Docker is too mainstream.
 Aiming for 100\% availability.
 A keynote speaker.
 Doing SRE for Legacy systems.
-Indsutry Zeitgeist.
+Indutry Zeitgeist.
 A Thought Leader.
 Automating office's coffee machine.
 Anxiety Disorder.
