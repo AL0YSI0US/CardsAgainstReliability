@@ -4,12 +4,12 @@ import os
 import subprocess
 
 def xelatex(basename):
-    subprocess.run(["xelatex", '\def\BLEEDAREA{}\input{' + basename + '.tex}'], capture_output=True)
+    subprocess.check_output(["xelatex", '\def\BLEEDAREA{}\input{' + basename + '.tex}'])
     os.remove(basename + ".aux")
     os.remove(basename + ".log")
 
 def pdftopng(basename):
-    subprocess.run(["convert", "-density", "300", "-geometry", "732x1101", basename + ".pdf", basename + ".png"], capture_output=True)
+    subprocess.check_output(["convert", "-density", "300", "-geometry", "732x1101", basename + ".pdf", basename + ".png"])
 
 sources = ["../black.txt", "../white.txt"]
 templates = ["black", "white"]
