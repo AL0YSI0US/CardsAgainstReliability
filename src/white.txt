@@ -11,7 +11,7 @@ Wearing glasses and sounding smart.
 Linus Torvalds.
 A saxophone solo.
 Ebola.
-A dissapointing salad.
+A disappointing salad.
 Network partitions.
 The miracle of autoscaling.
 Five nines fantasies.
@@ -19,22 +19,24 @@ A can of Red Bull.
 A lifetime of sadness.
 Bill Nye the Science Guy.
 Neil DeGrasse Tyson.
-A tribe of warrior women.
+A tribe of warrior SREs.
 BATMAN.
 Peeing a little bit.
+Being on fire.
+Never achieving my OKR.
 Handicapped.
 Sea of troubles.
 Being fabulous.
+Genetically engineered super-SREs.
+One trillion dollars.
 Shiny objects.
 The rhythms of Africa.
-Orgasms.
 Drinking alone.
 My collection of postmortems.
 Kubernetes.
 The taste of Cola.
 Barack Obama.
 A big incident.
-Vehicular manslaughter.
 Prometheus.
 Tea party.
 Poor life choices.
@@ -60,11 +62,13 @@ A 25-year old policy on deployments.
 A career-limiting card game.
 A dancing SRE.
 A genuine attempt to burn SLO.
-A violdated SLA.
+A violated SLA.
+Speaking to an angry customer about the violated SLA.
 A TLA+ proof.
 2 to 4 kilograms of top quality amphetamines.
 \texttt{Ctrl+F}'ing to see how many times I'm cited in a postmortem and finding ``10 results''.
 A painfully slow VPN connection.
+Pretending that I know the Paxos protocol.
 Accidentally triggering an emergency alert.
 Accidentally calling my VP.
 A hand wavy argument.
@@ -76,6 +80,7 @@ Drinking alone.
 Trying to explain what DevOps means.
 Chocolate-covered shrimp.
 Crippling error budget.
+Using Protocol Buffers without reason.
 Deliberately hiding inefficiencies inside the big O.
 Deliberately not referencing a superior paper.
 Dropping the word Blockchain into my incident report's action items.
@@ -90,7 +95,7 @@ Humiliation on a historic scale.
 Home-baked, snake oil crypto.
 HTTPS everywhere!
 Having to write a polite rebuttal in the postmortem.
-Actually being ``sorry for deleting the production database''.
+Actually being "sorry for deleting the production database".
 A board meeting.
 Like a cult.
 A Post-Agile world.
@@ -99,9 +104,10 @@ Best outage award.
 Checking Hacker News daily.
 Cloud Native.
 DevSecOps.
+Hiring SREs to do sysadmin jobs.
 Frantically taking notes during every talk.
 Getting a fourth cookie during a coffee break because I have no one to talk to.
-My inappropriate supervisor.
+My grumpy supervisor.
 A microservice in Haskell.
 My Silk Road purchase history.
 My side job as an incompetent security consultant.
@@ -167,29 +173,32 @@ Hiring Physicists as Chaos Engineers.
 Creating a DevOps and SRE team.
 Throw it under the bus.
 Building beautiful dashboards.
-Intuition Engineer
+Intuition Engineering.
 Generate lots of money.
 Spending months negotiating SLOs.
+Pretending to be doing Chaos Engineering.
 A Marketing Story
 Violating SLAs.
 Doing Rocket Science.
 Software Engineer's Fault.
 Mercenaries.
-Migrating to a cluster orchestrator because we follow the hype.
+Migrating to a cluster orchestrator because it's the new hype.
 Doing containers from scratch because Docker is too mainstream.
 Aiming for 100\% availability.
 A keynote speaker.
-Doing SRE for Legacy systems.
-Indutry Zeitgeist.
+Being an SRE for legacy systems.
+Industry Zeitgeist.
 A Thought Leader.
 Automating office's coffee machine.
+Autoremediation fixes the wrong thing.
 Anxiety Disorder.
-No Capacity Planning.
+No capacity planning.
 An emergency alert.
 An undetected outage.
 Using averages instead of percentiles.
 Fighting technical debt.
 Dashboard Junkyard.
-New Source of income.
+New source of income.
 Works on my machine.
 Unnecessary Star Wars references.
+An email about a new production incident.
