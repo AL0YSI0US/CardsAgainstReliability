@@ -74,3 +74,5 @@ Next on DevOps, is \BLANK.
 Which is the one that matters?
 Blameless posmortems bring a light to \BLANK.
 An SRE interview is never complete without \BLANK.
+A Disaster Recovery plan is never complete without \BLANK.
+A Chaos Engineering plan is never complete without \BLANK.
